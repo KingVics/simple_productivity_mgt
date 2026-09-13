@@ -5,18 +5,16 @@ A comprehensive Java-based command-line productivity application designed to hel
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Technology Stack](#technology-stack)
 - [Usage](#usage)
-- [Architecture](#architecture)
-- [Key Components](#key-components)
 - [Database](#database)
 
 ## Overview
 
 The Productivity Suite is a lightweight, console-based application that helps individuals and teams organize their work. Users can create accounts, manage multiple projects, and track tasks with different statuses (e.g., pending, in-progress, completed). All data is persisted locally in a file-based database.
 
-**Target Users:** Project managers, developers, students, and anyone who needs a simple yet effective tool to organize tasks and projects.
+
+[Software Demo Video](https://youtu.be/OVTiPJZ2Fds)
 
 ## Features
 
@@ -130,6 +128,9 @@ The application handles various scenarios:
 Users receive clear error messages guiding them to take corrective action.
 
 
+# Useful Websites
 
+- [Learn Java](https://dev.java/learn)
+- [W3school Java](https://www.w3schools.com/Java)
 
 

@@ -67,6 +67,7 @@ class Main {
             System.out.println("You are already logged in!");
             return;
         }
+        
         System.out.print("Enter email: ");
         String email = sc.nextLine();
 
