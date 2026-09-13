@@ -1,0 +1,5 @@
+# Compiled Java bytecode
+*.class
+
+# Database file
+database.txt
